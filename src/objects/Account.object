@@ -146,6 +146,10 @@
                 <fullName>Medium</fullName>
                 <default>false</default>
             </picklistValues>
+            <picklistValues>
+                <fullName>N/A</fullName>
+                <default>false</default>
+            </picklistValues>
             <sorted>false</sorted>
         </picklist>
         <trackFeedHistory>false</trackFeedHistory>
