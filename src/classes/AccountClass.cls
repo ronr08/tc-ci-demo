@@ -4,4 +4,5 @@ public with sharing class AccountClass {
 	}
 	//branch change
 	//second change
+	//third change
 }
