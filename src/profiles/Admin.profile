@@ -4,6 +4,7 @@
         <apexClass>AccountClass</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+<<<<<<< HEAD
     <classAccesses>
         <apexClass>CaseClass</apexClass>
         <enabled>true</enabled>
@@ -12,6 +13,8 @@
         <apexClass>ContactClass</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+=======
+>>>>>>> origin/master
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -1243,6 +1246,7 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+<<<<<<< HEAD
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -1481,6 +1485,8 @@
         <tab>standard-UserProvisioningRequest</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
+=======
+>>>>>>> origin/master
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

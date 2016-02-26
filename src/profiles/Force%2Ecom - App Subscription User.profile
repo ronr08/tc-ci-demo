@@ -4,6 +4,7 @@
         <apexClass>AccountClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+<<<<<<< HEAD
     <classAccesses>
         <apexClass>CaseClass</apexClass>
         <enabled>false</enabled>
@@ -12,6 +13,8 @@
         <apexClass>ContactClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+=======
+>>>>>>> origin/master
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -1243,6 +1246,7 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+<<<<<<< HEAD
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -1304,6 +1308,8 @@
         <tab>standard-UserProvisioningRequest</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
+=======
+>>>>>>> origin/master
     <userLicense>Force.com - App Subscription</userLicense>
     <userPermissions>
         <enabled>true</enabled>
